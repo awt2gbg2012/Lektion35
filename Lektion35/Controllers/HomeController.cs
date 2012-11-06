@@ -8,6 +8,7 @@ namespace Lektion35.Controllers
 {
     public class HomeController : Controller
     {
+        // change
         public ActionResult Index()
         {
             ViewBag.Message = "Welcome to ASP.NET MVC!";
