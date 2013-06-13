@@ -11,7 +11,7 @@ namespace Lektion35.Controllers
         // change
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP___NET MVC!";
+            ViewBag.Message = "Welcome to ASP.NET MVC!";
 
             return View();
         }
